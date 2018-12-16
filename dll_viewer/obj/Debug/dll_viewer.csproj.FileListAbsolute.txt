@@ -1,0 +1,14 @@
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\bin\Debug\dll_viewer.exe.config
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\bin\Debug\dll_viewer.exe
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\bin\Debug\dll_viewer.pdb
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.csprojResolveAssemblyReference.cache
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.Form1.resources
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.Properties.Resources.resources
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.csproj.GenerateResource.Cache
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.exe
+c:\users\evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.pdb
+C:\Users\Evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\Interop.LCC11.dll
+C:\Users\Evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\Interop.Microsoft.Office.Interop.OutlookViewCtl.dll
+C:\Users\Evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\Interop.MsoEuro.dll
+C:\Users\Evgeniya\documents\visual studio 2015\Projects\dll_viewer\dll_viewer\obj\Debug\dll_viewer.csproj.ResolveComReference.cache
